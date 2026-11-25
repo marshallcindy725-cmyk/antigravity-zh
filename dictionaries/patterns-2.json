@@ -1,0 +1,18 @@
+{
+  "// 说明": "antigravity-zh 模式词典（第 2 组）：设置面板与用量区的动态句式。",
+  "patterns": [
+    { "re": "^Show (\\d+) breakdowns$", "result": "显示 $1 项明细" },
+    { "re": "^Hide (\\d+) breakdowns$", "result": "收起 $1 项明细" },
+    { "re": "^You have used [a-z]+ of your weekly limit, it will fully refresh in (\\d+) days?, (\\d+) hours?\\.$", "result": "本周额度已部分使用，$1 天 $2 小时后完全重置。" },
+    { "re": "^You have used [a-z]+ of your weekly limit, it will fully refresh in (\\d+) hours?, (\\d+) minutes?\\.$", "result": "本周额度已部分使用，$1 小时 $2 分钟后完全重置。" },
+    { "re": "^You have used [a-z]+ of your weekly limit, it will fully refresh in (\\d+) minutes?\\.$", "result": "本周额度已部分使用，$1 分钟后完全重置。" },
+    { "re": "^You have used [a-z]+ of your 5-hour limit, it will fully refresh in (\\d+) hours?, (\\d+) minutes?\\.$", "result": "五小时窗口额度已部分使用，$1 小时 $2 分钟后完全重置。" },
+    { "re": "^You have used [a-z]+ of your 5-hour limit, it will fully refresh in (\\d+) minutes?\\.$", "result": "五小时窗口额度已部分使用，$1 分钟后完全重置。" },
+    { "re": "^Send feedback as (.+)$", "result": "以 $1 的身份提交反馈" },
+    { "re": "^(\\d+)d (\\d+)h (\\d+)m$", "result": "$1 天 $2 小时 $3 分钟" },
+    { "re": "^(\\d+)d (\\d+)h$", "result": "$1 天 $2 小时" },
+    { "re": "^(\\d+)h (\\d+)m$", "result": "$1 小时 $2 分钟" },
+    { "re": "^Extra$", "result": "极高" },
+    { "re": "^Extra High$", "result": "极高" }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "antigravity-zh",
+  "displayName": "Antigravity 汉化 (antigravity-zh)",
+  "description": "Simplified Chinese localization suite for Google Antigravity Hub UI, via the official Chromium remote-debugging interface. Zero file patching, dictionary hot-reload, safe by design.",
+  "version": "1.3.0"
+}

@@ -1,0 +1,189 @@
+{
+  "// 说明": "模型公告句式（含 12 个月份变体）",
+  "patterns": [
+    {
+      "re": "^([A-Za-z0-9 .\\-]+) is now available on paid Pro and Ultra plans\\. Third-party model access will no longer be available on your current plan starting on January (\\d+), (\\d+)\\.$",
+      "result": "$1 现已在付费 Pro 与 Ultra 方案中提供。自 $3 年 1月$2 日起，你当前方案将不再提供第三方模型访问。"
+    },
+    {
+      "re": "^([A-Za-z0-9 .\\-]+) is now available on paid Pro and Ultra plans\\. Third-party model access will no longer be available on your current plan starting on February (\\d+), (\\d+)\\.$",
+      "result": "$1 现已在付费 Pro 与 Ultra 方案中提供。自 $3 年 2月$2 日起，你当前方案将不再提供第三方模型访问。"
+    },
+    {
+      "re": "^([A-Za-z0-9 .\\-]+) is now available on paid Pro and Ultra plans\\. Third-party model access will no longer be available on your current plan starting on March (\\d+), (\\d+)\\.$",
+      "result": "$1 现已在付费 Pro 与 Ultra 方案中提供。自 $3 年 3月$2 日起，你当前方案将不再提供第三方模型访问。"
+    },
+    {
+      "re": "^([A-Za-z0-9 .\\-]+) is now available on paid Pro and Ultra plans\\. Third-party model access will no longer be available on your current plan starting on April (\\d+), (\\d+)\\.$",
+      "result": "$1 现已在付费 Pro 与 Ultra 方案中提供。自 $3 年 4月$2 日起，你当前方案将不再提供第三方模型访问。"
+    },
+    {
+      "re": "^([A-Za-z0-9 .\\-]+) is now available on paid Pro and Ultra plans\\. Third-party model access will no longer be available on your current plan starting on May (\\d+), (\\d+)\\.$",
+      "result": "$1 现已在付费 Pro 与 Ultra 方案中提供。自 $3 年 5月$2 日起，你当前方案将不再提供第三方模型访问。"
+    },
+    {
+      "re": "^([A-Za-z0-9 .\\-]+) is now available on paid Pro and Ultra plans\\. Third-party model access will no longer be available on your current plan starting on June (\\d+), (\\d+)\\.$",
+      "result": "$1 现已在付费 Pro 与 Ultra 方案中提供。自 $3 年 6月$2 日起，你当前方案将不再提供第三方模型访问。"
+    },
+    {
+      "re": "^([A-Za-z0-9 .\\-]+) is now available on paid Pro and Ultra plans\\. Third-party model access will no longer be available on your current plan starting on July (\\d+), (\\d+)\\.$",
+      "result": "$1 现已在付费 Pro 与 Ultra 方案中提供。自 $3 年 7月$2 日起，你当前方案将不再提供第三方模型访问。"
+    },
+    {
+      "re": "^([A-Za-z0-9 .\\-]+) is now available on paid Pro and Ultra plans\\. Third-party model access will no longer be available on your current plan starting on August (\\d+), (\\d+)\\.$",
+      "result": "$1 现已在付费 Pro 与 Ultra 方案中提供。自 $3 年 8月$2 日起，你当前方案将不再提供第三方模型访问。"
+    },
+    {
+      "re": "^([A-Za-z0-9 .\\-]+) is now available on paid Pro and Ultra plans\\. Third-party model access will no longer be available on your current plan starting on September (\\d+), (\\d+)\\.$",
+      "result": "$1 现已在付费 Pro 与 Ultra 方案中提供。自 $3 年 9月$2 日起，你当前方案将不再提供第三方模型访问。"
+    },
+    {
+      "re": "^([A-Za-z0-9 .\\-]+) is now available on paid Pro and Ultra plans\\. Third-party model access will no longer be available on your current plan starting on October (\\d+), (\\d+)\\.$",
+      "result": "$1 现已在付费 Pro 与 Ultra 方案中提供。自 $3 年 10月$2 日起，你当前方案将不再提供第三方模型访问。"
+    },
+    {
+      "re": "^([A-Za-z0-9 .\\-]+) is now available on paid Pro and Ultra plans\\. Third-party model access will no longer be available on your current plan starting on November (\\d+), (\\d+)\\.$",
+      "result": "$1 现已在付费 Pro 与 Ultra 方案中提供。自 $3 年 11月$2 日起，你当前方案将不再提供第三方模型访问。"
+    },
+    {
+      "re": "^([A-Za-z0-9 .\\-]+) is now available on paid Pro and Ultra plans\\. Third-party model access will no longer be available on your current plan starting on December (\\d+), (\\d+)\\.$",
+      "result": "$1 现已在付费 Pro 与 Ultra 方案中提供。自 $3 年 12月$2 日起，你当前方案将不再提供第三方模型访问。"
+    },
+    {
+      "re": "^([A-Za-z0-9 .\\-]+) will be removed from Antigravity on January (\\d+), (\\d+)\\.$",
+      "result": "$1 将于 $3 年 1月$2 日从 Antigravity 移除。"
+    },
+    {
+      "re": "^([A-Za-z0-9 .\\-]+) will be removed from Antigravity on February (\\d+), (\\d+)\\.$",
+      "result": "$1 将于 $3 年 2月$2 日从 Antigravity 移除。"
+    },
+    {
+      "re": "^([A-Za-z0-9 .\\-]+) will be removed from Antigravity on March (\\d+), (\\d+)\\.$",
+      "result": "$1 将于 $3 年 3月$2 日从 Antigravity 移除。"
+    },
+    {
+      "re": "^([A-Za-z0-9 .\\-]+) will be removed from Antigravity on April (\\d+), (\\d+)\\.$",
+      "result": "$1 将于 $3 年 4月$2 日从 Antigravity 移除。"
+    },
+    {
+      "re": "^([A-Za-z0-9 .\\-]+) will be removed from Antigravity on May (\\d+), (\\d+)\\.$",
+      "result": "$1 将于 $3 年 5月$2 日从 Antigravity 移除。"
+    },
+    {
+      "re": "^([A-Za-z0-9 .\\-]+) will be removed from Antigravity on June (\\d+), (\\d+)\\.$",
+      "result": "$1 将于 $3 年 6月$2 日从 Antigravity 移除。"
+    },
+    {
+      "re": "^([A-Za-z0-9 .\\-]+) will be removed from Antigravity on July (\\d+), (\\d+)\\.$",
+      "result": "$1 将于 $3 年 7月$2 日从 Antigravity 移除。"
+    },
+    {
+      "re": "^([A-Za-z0-9 .\\-]+) will be removed from Antigravity on August (\\d+), (\\d+)\\.$",
+      "result": "$1 将于 $3 年 8月$2 日从 Antigravity 移除。"
+    },
+    {
+      "re": "^([A-Za-z0-9 .\\-]+) will be removed from Antigravity on September (\\d+), (\\d+)\\.$",
+      "result": "$1 将于 $3 年 9月$2 日从 Antigravity 移除。"
+    },
+    {
+      "re": "^([A-Za-z0-9 .\\-]+) will be removed from Antigravity on October (\\d+), (\\d+)\\.$",
+      "result": "$1 将于 $3 年 10月$2 日从 Antigravity 移除。"
+    },
+    {
+      "re": "^([A-Za-z0-9 .\\-]+) will be removed from Antigravity on November (\\d+), (\\d+)\\.$",
+      "result": "$1 将于 $3 年 11月$2 日从 Antigravity 移除。"
+    },
+    {
+      "re": "^([A-Za-z0-9 .\\-]+) will be removed from Antigravity on December (\\d+), (\\d+)\\.$",
+      "result": "$1 将于 $3 年 12月$2 日从 Antigravity 移除。"
+    },
+    {
+      "re": "^Use ([A-Za-z0-9 .\\-]+) for better quality with lower quota usage\\. Leaving on Jan (\\d+)\\.$",
+      "result": "建议改用 $1：质量更好、配额消耗更低。将于 1月$2 日下线。"
+    },
+    {
+      "re": "^Use ([A-Za-z0-9 .\\-]+) for better quality with lower quota usage\\. Leaving on Feb (\\d+)\\.$",
+      "result": "建议改用 $1：质量更好、配额消耗更低。将于 2月$2 日下线。"
+    },
+    {
+      "re": "^Use ([A-Za-z0-9 .\\-]+) for better quality with lower quota usage\\. Leaving on Mar (\\d+)\\.$",
+      "result": "建议改用 $1：质量更好、配额消耗更低。将于 3月$2 日下线。"
+    },
+    {
+      "re": "^Use ([A-Za-z0-9 .\\-]+) for better quality with lower quota usage\\. Leaving on Apr (\\d+)\\.$",
+      "result": "建议改用 $1：质量更好、配额消耗更低。将于 4月$2 日下线。"
+    },
+    {
+      "re": "^Use ([A-Za-z0-9 .\\-]+) for better quality with lower quota usage\\. Leaving on May (\\d+)\\.$",
+      "result": "建议改用 $1：质量更好、配额消耗更低。将于 5月$2 日下线。"
+    },
+    {
+      "re": "^Use ([A-Za-z0-9 .\\-]+) for better quality with lower quota usage\\. Leaving on Jun (\\d+)\\.$",
+      "result": "建议改用 $1：质量更好、配额消耗更低。将于 6月$2 日下线。"
+    },
+    {
+      "re": "^Use ([A-Za-z0-9 .\\-]+) for better quality with lower quota usage\\. Leaving on Jul (\\d+)\\.$",
+      "result": "建议改用 $1：质量更好、配额消耗更低。将于 7月$2 日下线。"
+    },
+    {
+      "re": "^Use ([A-Za-z0-9 .\\-]+) for better quality with lower quota usage\\. Leaving on Aug (\\d+)\\.$",
+      "result": "建议改用 $1：质量更好、配额消耗更低。将于 8月$2 日下线。"
+    },
+    {
+      "re": "^Use ([A-Za-z0-9 .\\-]+) for better quality with lower quota usage\\. Leaving on Sep (\\d+)\\.$",
+      "result": "建议改用 $1：质量更好、配额消耗更低。将于 9月$2 日下线。"
+    },
+    {
+      "re": "^Use ([A-Za-z0-9 .\\-]+) for better quality with lower quota usage\\. Leaving on Sept (\\d+)\\.$",
+      "result": "建议改用 $1：质量更好、配额消耗更低。将于 9月$2 日下线。"
+    },
+    {
+      "re": "^Use ([A-Za-z0-9 .\\-]+) for better quality with lower quota usage\\. Leaving on Oct (\\d+)\\.$",
+      "result": "建议改用 $1：质量更好、配额消耗更低。将于 10月$2 日下线。"
+    },
+    {
+      "re": "^Use ([A-Za-z0-9 .\\-]+) for better quality with lower quota usage\\. Leaving on Nov (\\d+)\\.$",
+      "result": "建议改用 $1：质量更好、配额消耗更低。将于 11月$2 日下线。"
+    },
+    {
+      "re": "^Use ([A-Za-z0-9 .\\-]+) for better quality with lower quota usage\\. Leaving on Dec (\\d+)\\.$",
+      "result": "建议改用 $1：质量更好、配额消耗更低。将于 12月$2 日下线。"
+    },
+    {
+      "re": "^([A-Za-z0-9 .\\-]+) is currently available to Ultra and paid Pro plan subscribers\\.$",
+      "result": "$1 目前仅向 Ultra 与付费 Pro 方案订阅者开放。"
+    },
+    {
+      "re": "^([A-Za-z0-9 .\\-]+) is now available on paid Pro and Ultra plans\\. Third-party model access will no longer be available on your current plan starting on (.+)\\.$",
+      "result": "$1 现已在付费 Pro 与 Ultra 方案中提供。自 $2 起，你当前方案将不再提供第三方模型访问。"
+    },
+    {
+      "re": "^([A-Za-z0-9 .\\-]+) will be removed from Antigravity on (.+)\\.$",
+      "result": "$1 将于 $2 从 Antigravity 移除。"
+    },
+    {
+      "re": "^([A-Za-z0-9 .\\-]+) is currently available to paid Pro and Ultra subscribers\\.?$",
+      "result": "$1 目前仅向付费 Pro 与 Ultra 方案订阅者开放。"
+    },
+    {
+      "re": "^([A-Za-z0-9 .\\-]+) is currently available to Ultra and paid Pro subscribers\\.?$",
+      "result": "$1 目前仅向 Ultra 与付费 Pro 订阅者开放。"
+    },
+    {
+      "re": "^([A-Za-z0-9 .\\-]+) is currently available to paid Pro and Ultra plan subscribers\\.?$",
+      "result": "$1 目前仅向付费 Pro 与 Ultra 方案订阅者开放。"
+    },
+    {
+      "re": "^([A-Za-z0-9 .\\-]+) is now available on paid Pro and Ultra plans\\.?$",
+      "result": "$1 现已在付费 Pro 与 Ultra 方案中提供。"
+    },
+    {
+      "re": "^Select model, current: (.+)$",
+      "result": "选择模型，当前：$1"
+    },
+    {
+      "re": "^Model: (.+), Model cannot be changed while the agent is running$",
+      "result": "模型：$1，Agent 运行期间无法切换模型"
+    }
+  ]
+}

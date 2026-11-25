@@ -1,0 +1,12 @@
+{
+  "// 说明": "antigravity-zh 词典模块 18：模型菜单徽标（公告/即将下线/暂不可用/新）tooltip 内容。精确词条覆盖当前线上文案；动态变体见 patterns-3.json。",
+  "// 来源": "全部为服务器动态下发的模型状态说明，经 DOM 层整节点翻译。",
+  "For speed and efficiency in execution tasks": "兼顾速度与效率，适合执行类任务。",
+  "Use Hydrogen for better quality with lower quota usage. Leaving on Nov 30.": "建议改用 Hydrogen：质量更好、配额消耗更低。将于 11 月 30 日下线。",
+  "Sonnet 5.5 is now available on paid Pro and Ultra plans. Third-party model access will no longer be available on your current plan starting on November 30, 2026.": "Sonnet 5.5 现已在付费 Pro 与 Ultra 方案中提供。自 2026 年 11 月 30 日起，你当前方案将不再提供第三方模型访问。",
+  "Opus 5.5 is now available on paid Pro and Ultra plans. Third-party model access will no longer be available on your current plan starting on November 30, 2026.": "Opus 5.5 现已在付费 Pro 与 Ultra 方案中提供。自 2026 年 11 月 30 日起，你当前方案将不再提供第三方模型访问。",
+  "GPT-OSS will be removed from Antigravity on November 30, 2026.": "GPT-OSS 将于 2026 年 11 月 30 日从 Antigravity 移除。",
+  "Gemini 4 Carbon is currently available to Ultra and paid Pro plan subscribers.": "Gemini 4 Carbon 目前仅向 Ultra 与付费 Pro 方案订阅者开放。",
+  "Gemini 4 Argon is currently available to Ultra and paid Pro plan subscribers.": "Gemini 4 Argon 目前仅向 Ultra 与付费 Pro 方案订阅者开放。",
+  "Gemini 4 Neon is currently available to Ultra and paid Pro plan subscribers.": "Gemini 4 Neon 目前仅向 Ultra 与付费 Pro 方案订阅者开放。"
+}

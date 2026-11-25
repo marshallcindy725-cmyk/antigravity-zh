@@ -1,0 +1,8 @@
+{
+  "command": "node",
+  "args": ["main.mjs"],
+  "restart_policy": "always",
+  "display_name": "Antigravity 汉化守护进程 (antigravity-zh)",
+  "description": "Loads the simplified-Chinese dictionary into the Hub UI over the official remote-debugging port. Auto-attaches to all windows, reloads and new tabs. No app files are modified.",
+  "has_web_ui": false
+}
